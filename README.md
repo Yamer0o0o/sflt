@@ -13,7 +13,7 @@
 [Cхемa](files/1/hsrp_advanced.pkt) в формате pkt.
   
 Cкриншот настройки маршрутизатора:
- 
+  
 ![Скриншот 1](https://github.com/bodra84/sflt-dr-hw/blob/main/img/1_1.png)
  
 ---
@@ -33,6 +33,7 @@ Cкриншот настройки маршрутизатора:
 [Файл keepalived.conf](files/2/keepalived.conf)
   
 Скриншот с демонстрацией переезда плавающего ip на другой сервер в случае недоступности порта или файла index.html:
+  
 ![Скриншот 2](img/2_1.png)
   
 ![Скриншот 3](https://github.com/bodra84/sflt-dr-hw/blob/main/img/2_2.png)
@@ -59,6 +60,7 @@ Cкриншот настройки маршрутизатора:
 [Файл keepalived.conf](files/3/keepalived.conf)
   
 Скриншоты логов keepalived с серверов при разных нагрузках:
+  
 ![Скриншот 4](https://github.com/bodra84/sflt-dr-hw/blob/main/img/3_1.png)
   
 ![Скриншот 5](https://github.com/bodra84/sflt-dr-hw/blob/main/img/3_2.png)
