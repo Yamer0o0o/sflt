@@ -14,7 +14,7 @@
   
 Cкриншот настройки маршрутизатора:
   
-![Скриншот 1](https://github.com/bodra84/sflt-dr-hw/blob/main/img/1_1.png)
+![Скриншот 1](img/1_1.png)
  
 ---
  
@@ -36,7 +36,7 @@ Cкриншот настройки маршрутизатора:
   
 ![Скриншот 2](img/2_1.png)
   
-![Скриншот 3](https://github.com/bodra84/sflt-dr-hw/blob/main/img/2_2.png)
+![Скриншот 3](img/2_2.png)
   
 ![Скриншот 4](img/2_3.png)
   
@@ -65,10 +65,10 @@ Cкриншот настройки маршрутизатора:
   
 Скриншоты логов keepalived с серверов при разных нагрузках:
   
-![Скриншот 4](https://github.com/bodra84/sflt-dr-hw/blob/main/img/3_1.png)
+![Скриншот 6](img/3_1.png)
   
-![Скриншот 5](https://github.com/bodra84/sflt-dr-hw/blob/main/img/3_2.png)
+![Скриншот 7](img/3_2.png)
   
-![Скриншот 6](https://github.com/bodra84/sflt-dr-hw/blob/main/img/3_3.png)
+![Скриншот 8](img/3_3.png)
 
 ---
