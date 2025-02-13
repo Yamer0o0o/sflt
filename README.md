@@ -1,4 +1,4 @@
-# Домашнее задание к занятию «Disaster Recovery. FHRP и Keepalived» - Файзиев Давлат.
+# Домашнее задание к занятию «Disaster Recovery. FHRP и Keepalived» - Александр Леонов.
 
 ### Задание 1
 - Дана [схема](https://github.com/netology-code/sflt-homeworks/tree/main/1/hsrp_advanced.pkt) для Cisco Packet Tracer, рассматриваемая в лекции.
